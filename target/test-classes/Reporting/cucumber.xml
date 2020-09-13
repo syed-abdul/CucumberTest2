@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="23" tests="23" time="0.06373">
+<testcase classname="Verfying the adactin hotel booking functionalities" name="Verifying the adactin hotel booking login details with Members details step1" time="0.02377">
+<skipped><![CDATA[Given user is on the adactin hotel booking page.............................undefined
+When user should enter the "syedabdul","342H8J","Sydney","Hotel Creek","Double","1 - One","23/08/2020","24/08/2020","2 - Two","0 - None","syed","abdul","3/353 paramakudi","0987654321123456","VISA","May","2022" and "987".undefined
+And print the order number..................................................undefined
+Then user should click the log out button...................................undefined
+]]></skipped>
+</testcase>
+<testcase classname="Verfying the adactin hotel booking functionalities" name="Verifying the adactin hotel booking login details with Members details step1 2" time="0.002851">
+<skipped><![CDATA[Given user is on the adactin hotel booking page.............................undefined
+When user should enter the "syedabdul","342H8J","Sydney","Hotel Creek","Deluxe","1 - One","23/08/2020","24/08/2020","2 - Two","0 - None","syed","abdul","3/353 paramakudi","0987654321123456","VISA","May","2022" and "987".undefined
+And print the order number..................................................undefined
+Then user should click the log out button...................................undefined
+]]></skipped>
+</testcase>
+<testcase classname="Verfying the adactin hotel booking functionalities" name="Verifying the adactin hotel booking login details with Members details step1 3" time="0.001051">
+<skipped><![CDATA[Given user is on the adactin hotel booking page.............................undefined
+When user should enter the "syedabdul","342H8J","Sydney","Hotel Creek","Standard","1 - One","23/08/2020","24/08/2020","2 - Two","0 - None","syed","abdul","3/353 paramakudi","0987654321123456","VISA","May","2022" and "987".undefined
+And print the order number..................................................undefined
+Then user should click the log out button...................................undefined
+]]></skipped>
+</testcase>
+<testcase classname="Verfying the adactin hotel booking functionalities" name="Verifying the adactin hotel booking login details with Members details step1 4" time="0.002087">
+<skipped><![CDATA[Given user is on the adactin hotel booking page.............................undefined
+When user should enter the "syedabdul","342H8J","Sydney","Hotel Creek","Super Deluxe","1 - One","23/08/2020","24/08/2020","2 - Two","0 - None","syed","abdul","3/353 paramakudi","0987654321123456","VISA","May","2022" and "987".undefined
+And print the order number..................................................undefined
+Then user should click the log out button...................................undefined
+]]></skipped>
+</testcase>
+<testcase classname="Verfying the adactin hotel booking functionalities" name="Verifying the adactin hotel booking login details with Members details step2" time="0.001596">
+<skipped><![CDATA[Given user is on the adactin hotel booking again page.......................undefined
+When user should enter the details and check the different no of room "syedabdul","342H8J","Sydney","Hotel Creek","Double","1 - One","23/08/2020","24/08/2020","2 - Two","0 - None","syed","abdul","3/353 paramakudi","0987654321123456","VISA","May","2022" and "987".undefined
+And print the order number again for different no of rooom..................undefined
+Then user should click the log out button again.............................undefined
+]]></skipped>
+</testcase>
+<testcase classname="Verfying the adactin hotel booking functionalities" name="Verifying the adactin hotel booking login details with Members details step2 2" time="0.000853">
+<skipped><![CDATA[Given user is on the adactin hotel booking again page.......................undefined
+When user should enter the details and check the different no of room "syedabdul","342H8J","Sydney","Hotel Creek","Double","2 - Two","23/08/2020","24/08/2020","2 - Two","0 - None","syed","abdul","3/353 paramakudi","0987654321123456","VISA","May","2022" and "987".undefined
+And print the order number again for different no of rooom..................undefined
+Then user should click the log out button again.............................undefined
+]]></skipped>
+</testcase>
+<testcase classname="Verfying the adactin hotel booking functionalities" name="Verifying the adactin hotel booking login details with Members details step2 3" time="0.002576">
+<skipped><![CDATA[Given user is on the adactin hotel booking again page.......................undefined
+When user should enter the details and check the different no of room "syedabdul","342H8J","Sydney","Hotel Creek","Double","3 - Three","23/08/2020","24/08/2020","2 - Two","0 - None","syed","abdul","3/353 paramakudi","0987654321123456","VISA","May","2022" and "987".undefined
+And print the order number again for different no of rooom..................undefined
+Then user should click the log out button again.............................undefined
+]]></skipped>
+</testcase>
+<testcase classname="Verfying the adactin hotel booking functionalities" name="Verifying the adactin hotel booking login details with Members details step2 4" time="0.000885">
+<skipped><![CDATA[Given user is on the adactin hotel booking again page.......................undefined
+When user should enter the details and check the different no of room "syedabdul","342H8J","Sydney","Hotel Creek","Double","4 - Four","23/08/2020","24/08/2020","2 - Two","0 - None","syed","abdul","3/353 paramakudi","0987654321123456","VISA","May","2022" and "987".undefined
+And print the order number again for different no of rooom..................undefined
+Then user should click the log out button again.............................undefined
+]]></skipped>
+</testcase>
+<testcase classname="Verfying the adactin hotel booking functionalities" name="Verifying the adactin hotel booking login details with Members details step2 5" time="0.000814">
+<skipped><![CDATA[Given user is on the adactin hotel booking again page.......................undefined
+When user should enter the details and check the different no of room "syedabdul","342H8J","Sydney","Hotel Creek","Double","5 - Five","23/08/2020","24/08/2020","2 - Two","0 - None","syed","abdul","3/353 paramakudi","0987654321123456","VISA","May","2022" and "987".undefined
+And print the order number again for different no of rooom..................undefined
+Then user should click the log out button again.............................undefined
+]]></skipped>
+</testcase>
+<testcase classname="Verfying the adactin hotel booking functionalities" name="Verifying the adactin hotel booking login details with Members details step2 6" time="0.000887">
+<skipped><![CDATA[Given user is on the adactin hotel booking again page.......................undefined
+When user should enter the details and check the different no of room "syedabdul","342H8J","Sydney","Hotel Creek","Double","6 - Six","23/08/2020","24/08/2020","2 - Two","0 - None","syed","abdul","3/353 paramakudi","0987654321123456","VISA","May","2022" and "987".undefined
+And print the order number again for different no of rooom..................undefined
+Then user should click the log out button again.............................undefined
+]]></skipped>
+</testcase>
+<testcase classname="Verfying the adactin hotel booking functionalities" name="Verifying the adactin hotel booking login details with Members details step2 7" time="0.001062">
+<skipped><![CDATA[Given user is on the adactin hotel booking again page.......................undefined
+When user should enter the details and check the different no of room "syedabdul","342H8J","Sydney","Hotel Creek","Double","7 - Seven","23/08/2020","24/08/2020","2 - Two","0 - None","syed","abdul","3/353 paramakudi","0987654321123456","VISA","May","2022" and "987".undefined
+And print the order number again for different no of rooom..................undefined
+Then user should click the log out button again.............................undefined
+]]></skipped>
+</testcase>
+<testcase classname="Verfying the adactin hotel booking functionalities" name="Verifying the adactin hotel booking login details with Members details step2 8" time="0.000966">
+<skipped><![CDATA[Given user is on the adactin hotel booking again page.......................undefined
+When user should enter the details and check the different no of room "syedabdul","342H8J","Sydney","Hotel Creek","Double","8 - Eight","23/08/2020","24/08/2020","2 - Two","0 - None","syed","abdul","3/353 paramakudi","0987654321123456","VISA","May","2022" and "987".undefined
+And print the order number again for different no of rooom..................undefined
+Then user should click the log out button again.............................undefined
+]]></skipped>
+</testcase>
+<testcase classname="Verfying the adactin hotel booking functionalities" name="Verifying the adactin hotel booking login details with Members details step2 9" time="0.001003">
+<skipped><![CDATA[Given user is on the adactin hotel booking again page.......................undefined
+When user should enter the details and check the different no of room "syedabdul","342H8J","Sydney","Hotel Creek","Double","9 - Nine","23/08/2020","24/08/2020","2 - Two","0 - None","syed","abdul","3/353 paramakudi","0987654321123456","VISA","May","2022" and "987".undefined
+And print the order number again for different no of rooom..................undefined
+Then user should click the log out button again.............................undefined
+]]></skipped>
+</testcase>
+<testcase classname="Verfying the adactin hotel booking functionalities" name="Verifying the adactin hotel booking login details with Members details step2 10" time="0.002176">
+<skipped><![CDATA[Given user is on the adactin hotel booking again page.......................undefined
+When user should enter the details and check the different no of room "syedabdul","342H8J","Sydney","Hotel Creek","Double","10 - Ten","23/08/2020","24/08/2020","2 - Two","0 - None","syed","abdul","3/353 paramakudi","0987654321123456","VISA","May","2022" and "987".undefined
+And print the order number again for different no of rooom..................undefined
+Then user should click the log out button again.............................undefined
+]]></skipped>
+</testcase>
+<testcase classname="Verfying the adactin hotel booking functionalities again once" name="Verifying the adactin hotel booking login details with Members details step3" time="0.00087">
+<skipped><![CDATA[Given user is on the again adactin hotel booking page.......................undefined
+When user should enter the detail check the different aduld per room  "syedabdul","342H8J","Sydney","Hotel Creek","Double","1 - One","23/08/2020","24/08/2020","4 - Four","0 - None","syed","abdul","3/353 paramakudi","0987654321123456","VISA","May","2022" and "987".undefined
+And print the order number for different adult per room.....................undefined
+Then user should click the again log out button.............................undefined
+]]></skipped>
+</testcase>
+<testcase classname="Verfying the adactin hotel booking functionalities again once" name="Verifying the adactin hotel booking login details with Members details step3 2" time="0.000799">
+<skipped><![CDATA[Given user is on the again adactin hotel booking page.......................undefined
+When user should enter the detail check the different aduld per room  "syedabdul","342H8J","Sydney","Hotel Creek","Double","2 - Two","23/08/2020","24/08/2020","2 - Two","0 - None","syed","abdul","3/353 paramakudi","0987654321123456","VISA","May","2022" and "987".undefined
+And print the order number for different adult per room.....................undefined
+Then user should click the again log out button.............................undefined
+]]></skipped>
+</testcase>
+<testcase classname="Verfying the adactin hotel booking functionalities again once" name="Verifying the adactin hotel booking login details with Members details step3 3" time="0.002718">
+<skipped><![CDATA[Given user is on the again adactin hotel booking page.......................undefined
+When user should enter the detail check the different aduld per room  "syedabdul","342H8J","Sydney","Hotel Creek","Double","2 - Two","23/08/2020","24/08/2020","1 - One","0 - None","syed","abdul","3/353 paramakudi","0987654321123456","VISA","May","2022" and "987".undefined
+And print the order number for different adult per room.....................undefined
+Then user should click the again log out button.............................undefined
+]]></skipped>
+</testcase>
+<testcase classname="Verfying the adactin hotel booking functionalities again once" name="Verifying the adactin hotel booking login details with Members details step3 4" time="0.00654">
+<skipped><![CDATA[Given user is on the again adactin hotel booking page.......................undefined
+When user should enter the detail check the different aduld per room  "syedabdul","342H8J","Sydney","Hotel Creek","Double","2 - Two","23/08/2020","24/08/2020","3 - Three","0 - None","syed","abdul","3/353 paramakudi","0987654321123456","VISA","May","2022" and "987".undefined
+And print the order number for different adult per room.....................undefined
+Then user should click the again log out button.............................undefined
+]]></skipped>
+</testcase>
+<testcase classname="Verfying the adactin hotel booking functionalities again once" name="Verifying the adactin hotel booking login details with Members details step4" time="0.002613">
+<skipped><![CDATA[Given user is on the adactin hotel booking page again.......................undefined
+When user should enter the details and check the different child per room "syedabdul","342H8J","Sydney","Hotel Creek","Double","1 - One","23/08/2020","24/08/2020","4 - Four","3 - Three","syed","abdul","3/353 paramakudi","0987654321123456","VISA","May","2022" and "987".undefined
+And print the order number for different child per room.....................undefined
+Then user should again click the log out button.............................undefined
+]]></skipped>
+</testcase>
+<testcase classname="Verfying the adactin hotel booking functionalities again once" name="Verifying the adactin hotel booking login details with Members details step4 2" time="0.001001">
+<skipped><![CDATA[Given user is on the adactin hotel booking page again.......................undefined
+When user should enter the details and check the different child per room "syedabdul","342H8J","Sydney","Hotel Creek","Double","2 - Two","23/08/2020","24/08/2020","2 - Two","0 - None","syed","abdul","3/353 paramakudi","0987654321123456","VISA","May","2022" and "987".undefined
+And print the order number for different child per room.....................undefined
+Then user should again click the log out button.............................undefined
+]]></skipped>
+</testcase>
+<testcase classname="Verfying the adactin hotel booking functionalities again once" name="Verifying the adactin hotel booking login details with Members details step4 3" time="0.003885">
+<skipped><![CDATA[Given user is on the adactin hotel booking page again.......................undefined
+When user should enter the details and check the different child per room "syedabdul","342H8J","Sydney","Hotel Creek","Double","2 - Two","23/08/2020","24/08/2020","2 - Two","1 - One","syed","abdul","3/353 paramakudi","0987654321123456","VISA","May","2022" and "987".undefined
+And print the order number for different child per room.....................undefined
+Then user should again click the log out button.............................undefined
+]]></skipped>
+</testcase>
+<testcase classname="Verfying the adactin hotel booking functionalities again once" name="Verifying the adactin hotel booking login details with Members details step4 4" time="0.001992">
+<skipped><![CDATA[Given user is on the adactin hotel booking page again.......................undefined
+When user should enter the details and check the different child per room "syedabdul","342H8J","Sydney","Hotel Creek","Double","2 - Two","23/08/2020","24/08/2020","2 - Two","2 - Two","syed","abdul","3/353 paramakudi","0987654321123456","VISA","May","2022" and "987".undefined
+And print the order number for different child per room.....................undefined
+Then user should again click the log out button.............................undefined
+]]></skipped>
+</testcase>
+<testcase classname="Verfying the adactin hotel booking functionalities again once" name="Verifying the adactin hotel booking login details with Members details step4 5" time="0.000735">
+<skipped><![CDATA[Given user is on the adactin hotel booking page again.......................undefined
+When user should enter the details and check the different child per room "syedabdul","342H8J","Sydney","Hotel Creek","Double","2 - Two","23/08/2020","24/08/2020","2 - Two","4 - Four","syed","abdul","3/353 paramakudi","0987654321123456","VISA","May","2022" and "987".undefined
+And print the order number for different child per room.....................undefined
+Then user should again click the log out button.............................undefined
+]]></skipped>
+</testcase>
+</testsuite>

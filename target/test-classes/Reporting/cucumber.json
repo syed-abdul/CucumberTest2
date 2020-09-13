@@ -1,0 +1,321 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 35967978530,
+              "status": "passed"
+            },
+            "match": {
+              "location": "HookClass.befofe()"
+            }
+          }
+        ],
+        "line": 14,
+        "name": "Verifying the adactin hotel booking login details with Members details step1",
+        "description": "",
+        "id": "verfying-the-adactin-hotel-booking-functionalities;verifying-the-adactin-hotel-booking-login-details-with-members-details-step1;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 68531,
+              "status": "passed"
+            },
+            "match": {
+              "location": "HookClass.after()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 1871667,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user is on the adactin hotel booking page",
+            "match": {
+              "location": "StepDefanition.user_is_on_the_adactin_hotel_booking_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 8678875112,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user should enter the \"syedabdul\",\"342H8J\",\"Sydney\",\"Hotel Creek\",\"Double\",\"1 - One\",\"23/08/2020\",\"24/08/2020\",\"2 - Two\",\"0 - None\",\"syed\",\"abdul\",\"3/353 paramakudi\",\"0987654321123456\",\"VISA\",\"May\",\"2022\" and \"987\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"syedabdul\"",
+                  "offset": 22
+                },
+                {
+                  "val": "\"342H8J\"",
+                  "offset": 34
+                },
+                {
+                  "val": "\"Sydney\"",
+                  "offset": 43
+                },
+                {
+                  "val": "\"Hotel Creek\"",
+                  "offset": 52
+                },
+                {
+                  "val": "\"Double\"",
+                  "offset": 66
+                },
+                {
+                  "val": "\"1 - One\"",
+                  "offset": 75
+                },
+                {
+                  "val": "\"23/08/2020\"",
+                  "offset": 85
+                },
+                {
+                  "val": "\"24/08/2020\"",
+                  "offset": 98
+                },
+                {
+                  "val": "\"2 - Two\"",
+                  "offset": 111
+                },
+                {
+                  "val": "\"0 - None\"",
+                  "offset": 121
+                },
+                {
+                  "val": "\"syed\"",
+                  "offset": 132
+                },
+                {
+                  "val": "\"abdul\"",
+                  "offset": 139
+                },
+                {
+                  "val": "\"3/353 paramakudi\"",
+                  "offset": 147
+                },
+                {
+                  "val": "\"0987654321123456\"",
+                  "offset": 166
+                },
+                {
+                  "val": "\"VISA\"",
+                  "offset": 185
+                },
+                {
+                  "val": "\"May\"",
+                  "offset": 192
+                },
+                {
+                  "val": "\"2022\"",
+                  "offset": 198
+                },
+                {
+                  "val": "\"987\"",
+                  "offset": 209
+                }
+              ],
+              "location": "StepDefanition.user_should_enter_the_and(String,String,String,String,String,String,String,String,String,String,String,String,String,String,String,String,String,String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 9042761088,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "print the order number",
+            "match": {
+              "location": "StepDefanition.print_the_order_number()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 6008082106,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "user should click the log out button",
+            "match": {
+              "location": "StepDefanition.user_should_click_the_log_out_button()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 434668724,
+              "status": "passed"
+            },
+            "match": {
+              "location": "HookClass.befofe()"
+            }
+          }
+        ],
+        "line": 27,
+        "name": "Verifying the adactin hotel booking login details with Members details step2",
+        "description": "",
+        "id": "verfying-the-adactin-hotel-booking-functionalities;verifying-the-adactin-hotel-booking-login-details-with-members-details-step2;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 35702,
+              "status": "passed"
+            },
+            "match": {
+              "location": "HookClass.after()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 67299,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "user is on the adactin hotel booking again page",
+            "match": {
+              "location": "StepDefanition.user_is_on_the_adactin_hotel_booking_again_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 5207731655,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "user should enter the details and check the different no of room \"syedabdul\",\"342H8J\",\"Sydney\",\"Hotel Creek\",\"Double\",\"1 - One\",\"23/08/2020\",\"24/08/2020\",\"2 - Two\",\"0 - None\",\"syed\",\"abdul\",\"3/353 paramakudi\",\"0987654321123456\",\"VISA\",\"May\",\"2022\" and \"987\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"syedabdul\"",
+                  "offset": 65
+                },
+                {
+                  "val": "\"342H8J\"",
+                  "offset": 77
+                },
+                {
+                  "val": "\"Sydney\"",
+                  "offset": 86
+                },
+                {
+                  "val": "\"Hotel Creek\"",
+                  "offset": 95
+                },
+                {
+                  "val": "\"Double\"",
+                  "offset": 109
+                },
+                {
+                  "val": "\"1 - One\"",
+                  "offset": 118
+                },
+                {
+                  "val": "\"23/08/2020\"",
+                  "offset": 128
+                },
+                {
+                  "val": "\"24/08/2020\"",
+                  "offset": 141
+                },
+                {
+                  "val": "\"2 - Two\"",
+                  "offset": 154
+                },
+                {
+                  "val": "\"0 - None\"",
+                  "offset": 164
+                },
+                {
+                  "val": "\"syed\"",
+                  "offset": 175
+                },
+                {
+                  "val": "\"abdul\"",
+                  "offset": 182
+                },
+                {
+                  "val": "\"3/353 paramakudi\"",
+                  "offset": 190
+                },
+                {
+                  "val": "\"0987654321123456\"",
+                  "offset": 209
+                },
+                {
+                  "val": "\"VISA\"",
+                  "offset": 228
+                },
+                {
+                  "val": "\"May\"",
+                  "offset": 235
+                },
+                {
+                  "val": "\"2022\"",
+                  "offset": 241
+                },
+                {
+                  "val": "\"987\"",
+                  "offset": 252
+                }
+              ],
+              "location": "StepDefanition.user_should_enter_the_details_and_check_the_different_no_of_room_and(String,String,String,String,String,String,String,String,String,String,String,String,String,String,String,String,String,String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 9054417048,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "print the order number again for different no of rooom",
+            "match": {
+              "location": "StepDefanition.print_the_order_number_again_for_different_no_of_rooom()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 5757317291,
+              "status": "passed"
+            },
+            "line": 22,
+            "name": "user should click the log out button again",
+            "match": {
+              "location": "StepDefanition.user_should_click_the_log_out_button_again()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Verfying the adactin hotel booking functionalities",
+    "description": "",
+    "id": "verfying-the-adactin-hotel-booking-functionalities",
+    "keyword": "Feature",
+    "uri": "C:/Users/ragavboom/eclipse-workspace/CucumberTasks1/src/test/resources/Feature/FeaturePage1.feature",
+    "tags": []
+  }
+]
